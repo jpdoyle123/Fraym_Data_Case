@@ -23,7 +23,7 @@ Variable List:
   16. Cultivated_or_not: Is the households plot cultivated or not? 
 
 
-Rationale (Food security formula):
+Rationale (Food spending formula):
 
 The survery on food purchases was quite exhaustive, including a good deal of variables that were erroneous to figuring out monthly food spending. Thus, I focused on the survey questions that indicated that it was about "the last 30 days". The important questions were food purchases in the last 30 days on set items designated by the survey. However, it was seperated into units purchased, quantity purchased, and then size purchased. As a result, it was a little bit difficult to figure out the exact meaning of the different designations. Thus, since the quantity in (size) units had a conversion factor, i added that multiplied by its conversion factor to the units and quantity purchased. The formula looks as follows:
 
